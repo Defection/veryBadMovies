@@ -17,6 +17,8 @@ Basic functionality (CRUD app minus update functionality):
 
 
 *********TO START THIS APPLICATION*******
+
+
 [ ] Fork and clone this repo
 
 [ ] npm install
@@ -28,6 +30,9 @@ Basic functionality (CRUD app minus update functionality):
 
 
 ********TO START MYSQL, ASSUMING YOU HAVE IT INSTALLED********
+
+
+
 [ ] mysql.server start
 
 [ ] mysql -u root
@@ -36,6 +41,9 @@ Basic functionality (CRUD app minus update functionality):
 
 
 *******GOALS OF THIS PRACTICE ASSIGNMENT********
+
+
+
 While this is a practice assignment, please avoid working together to find solutions if possible. 
 
 The difficulty of this assignment will vary by person. The key takeaway is to find out what you DON'T KNOW WELL, and learn it before the assessment. 
