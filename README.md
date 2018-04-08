@@ -14,3 +14,35 @@ Basic functionality (CRUD app minus update functionality):
 [ ] If I click a movie on the search results, it will save to my favorites (mySQL database, you must make your own Schema)
 
 [ ] If I'm viewing my favorites and click an item, it will remove the item (page should auto update somehow) 
+
+
+*********TO START THIS APPLICATION*******
+[ ] Fork and clone this repo
+
+[ ] npm install
+
+[ ] npm run server-dev
+
+[ ] npm run react-dev
+
+
+
+********TO START MYSQL, ASSUMING YOU HAVE IT INSTALLED********
+[ ] mysql.server start
+
+[ ] mysql -u root
+
+
+
+
+*******GOALS OF THIS PRACTICE ASSIGNMENT********
+While this is a practice assignment, please avoid working together to find solutions if possible. 
+
+The difficulty of this assignment will vary by person. The key takeaway is to find out what you DON'T KNOW WELL, and learn it before the assessment. 
+
+With that said, in the event you find yourself stuck on a prompt for an extended period of time, feel free to use the seniors as help desk. 
+
+We seniors will try our best not to provide you any direct answers. In the event you are unable to complete this practice assignment, a solution code will be available for you to study/reference.
+
+GLHF!
+
